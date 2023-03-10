@@ -1,6 +1,6 @@
 #include<iostream>
 using nmaespace std;
-int main();
+int main()
 {
 cout<<"hello world";
 return 0;
